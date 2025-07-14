@@ -2,7 +2,7 @@
 
 Official implementation for GAD
 
-![Teaser](figures/fig_1png)
+![Teaser](figures/fig_1.png)
 
 ## 📚 Citation
 
