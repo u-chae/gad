@@ -11,6 +11,6 @@ Official implementation for GAD
 @article{gad2025,
   title={Generative Adversarial Diffusion},
   author={Jun, U-Chae and Ko, Jaeeun and Kang, Jiwoo},
-  journal={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  journal={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   year={2025}
 }
