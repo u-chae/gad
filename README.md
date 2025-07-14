@@ -1,1 +1,1 @@
-# gad.github.io
+# Generative Adversatial Diffusion
